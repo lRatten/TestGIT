@@ -1,0 +1,2 @@
+# Pruebas de git y vim para que me realice el ejercicio correctamente
+Con el comando vim edito archivos de texto
